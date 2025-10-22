@@ -1,0 +1,12 @@
+package_name: "python3"
+repository_url: "http://archive.ubuntu.com/ubuntu/"
+test_repository_mode: false
+test_repository_path: "./test_repo"
+package_version: "3.8"
+
+output_filename: "dependency_graph.png"
+ascii_tree_output: true
+max_dependency_depth: 3
+
+verbose: true
+cache_enabled: true
