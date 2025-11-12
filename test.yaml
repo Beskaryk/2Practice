@@ -1,0 +1,8 @@
+package_name: "python3"
+repository_url: "http://archive.ubuntu.com/ubuntu"
+test_repository_mode: false
+package_version: "3.8"
+package_version: "3.8.2-0ubuntu2"
+output_filename: "test.png"
+ascii_tree_output: true
+max_dependency_depth: 3
